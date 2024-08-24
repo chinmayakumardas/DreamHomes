@@ -22,7 +22,15 @@ To get started with DreamHomes, follow these simple steps:
 ## Features
 
 * [List of key features, e.g., property listings, market analytics, communication tools, etc.]
+  
+## Technology Used
 
+Here's a list of technologies used to build DreamHomes:
+
+* **Frontend**: React, Redux, React Hooks
+* **Animations**: Framer Motion
+* **Carousel**: Swiper JS
+* **JavaScript**: JavaScript (ES6+ syntax)
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to DreamHomes, please follow these guidelines:
