@@ -15,7 +15,7 @@ DreamHomes offers a comprehensive suite of tools and services to facilitate a sm
 
 To get started with DreamHomes, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/dreamhomes.git`
+1. Clone the repository: `git clone https://github.com/chinmayakumardas/dreamhomes.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the application: `npm start` or `yarn start`
 
